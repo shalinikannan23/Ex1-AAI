@@ -5,7 +5,6 @@
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 ## Aim :
-
 ### To create a bayesian Network for the given dataset in Python
 
 ## Algorithm:
@@ -148,7 +147,7 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-![image](https://github.com/shalinikannan23/Ex1-AAI/assets/118656529/b49bf838-b347-430b-ad6d-10548e436a21)
+<img height=10% width=30% src="https://github.com/shalinikannan23/Ex1-AAI/assets/118656529/b49bf838-b347-430b-ad6d-10548e436a21">
 
 ## Result:
    Thus a Bayesian Network is generated using Python
